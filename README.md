@@ -1,2 +1,2 @@
-# Delta_React
+# Delta-React
 make a app using react
